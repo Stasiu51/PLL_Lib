@@ -2,6 +2,8 @@
 
 *This repo copied from official repo, ownership of which was transferred to the physics dept.*
 
+`pip install PLL-Lib`
+
 This package is written for the benefit of students taking the 'Phase Locked Loops' Part II experiment as part of the Physics course at Cambridge University.
 
 For a tutorial on its usage, see Phase_Locked_Loops_Automation_Guide.pdf. All the code therein is provided in the Examples directory. For documentation of the functions, see the source, in particular picoscope.py and arduino.py.
